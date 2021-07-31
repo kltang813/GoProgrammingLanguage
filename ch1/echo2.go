@@ -1,3 +1,4 @@
+// Exercise 1.2
 package main
 
 import (

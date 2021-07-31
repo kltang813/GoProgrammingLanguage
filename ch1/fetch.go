@@ -1,3 +1,4 @@
+// Exercise 1.7
 package main
 
 import (
@@ -13,5 +14,6 @@ func main() {
 			fmt.Fprintf(os.Stderr, "fetch: %v\n", err)
 			os.Exit(1)
 		}
+
 	}
 }

@@ -1,3 +1,4 @@
+// Exercise 1.3
 package benchmark
 
 import (
